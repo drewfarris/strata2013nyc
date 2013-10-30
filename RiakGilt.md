@@ -1,6 +1,9 @@
 Riak @ Gilt
 ====
 
+[Session Link][5]
+[5]: http://strataconf.com/stratany2013/public/schedule/detail/32740
+
 Testing Riak for Multiple Data-Center Support: A Case Study
 
 - Jim Englert

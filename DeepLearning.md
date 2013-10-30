@@ -1,4 +1,8 @@
 # Deep Learning
+
+[Session Link][5]
+
+[5]: http://strataconf.com/stratany2013/public/schedule/detail/30825
 1958 – Neural Network OriginNeural Networks are some of the oldest algorithms in AI – amazing quality of results.
 Emipiral Result beating the prior art.  > “Instead of doing AI, we spend our lives doing curve fitting” - Andrew Ng
 Automatic Feature engineering.Brief History of the Last 4 yearsNew Breakthrough results.### Case studies.- Speech Recognition at Google- Molecular Activity Prediction on Kaggle### History:
