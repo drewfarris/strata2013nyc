@@ -84,3 +84,5 @@ First finding:
 heartbeat check ingerval was milliseconds! not seconds! 31 seconds instead of 20 minutes. By mistake made the interval much shorter.
 
 Initial delay was bad. 
+
+[Unfortunately had to leave this session early]
